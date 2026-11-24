@@ -9,6 +9,7 @@ I have a background in cybersecurity, IT support, networking, cloud technologies
 ## Certifications
 
 - CompTIA PenTest+
+- CompTIA Security+
 - AWS Certified Cloud Practitioner
 - Cisco Ethical Hacker _ Badge
 - Cisco CCNA: Introduction to Networks _ Badge
